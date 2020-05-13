@@ -1,0 +1,39 @@
+{
+	"title" : "Wapik",
+
+	"header" : {
+		"logo" : {
+			"title" : "Wapik",
+			"subtitle" : "Wapik, template, ionicons, cross browser."  
+		},
+		"menu" : [ "HOME", "ABOUT US", "Team",	"PRICING", "CONTACT US", "GET STARTED" ],
+		"slider" : {
+			"title" : "Welcome to the Wapik",
+			"subtitle" : "Wapik is multipurpose template, with modern and smart design. Wapik is perfect template for you"
+			"button2":"LEARN MORE"
+		}
+
+		"header" : {
+		"logo" : {
+			"title" : "Wapik",
+			"subtitle" : "Wapik, template, ionicons, cross browser."  
+		},
+		"menu" : [ "HOME", "ABOUT US", "Team",	"PRICING", "CONTACT US", "GET STARTED" ],
+		"slider" : {
+			"title" : "Welcome to the Wapik",
+			"subtitle" : "Wapik is multipurpose template, with modern and smart design. Wapik is perfect template for you"
+			"button2":"LEARN MORE"
+		}
+
+	"header" : {
+		"logo" : {
+			"title" : "Wapik",
+			"subtitle" : "Wapik, template, ionicons, cross browser."  
+		},
+		"menu" : [ "HOME", "ABOUT US", "Team",	"PRICING", "CONTACT US", "GET STARTED" ],
+		"slider" : {
+			"title" : "Welcome to the Wapik",
+			"subtitle" : "Wapik is multipurpose template, with modern and smart design. Wapik is perfect template for you"
+			"button2":"LEARN MORE"
+		}
+	},

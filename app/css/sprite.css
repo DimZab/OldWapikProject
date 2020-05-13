@@ -1,0 +1,94 @@
+.sprite {
+  background-image: url(../img/sprite.png);
+  background-repeat: no-repeat;
+  display: block; }
+
+.sprite-icon-01 {
+  background-position: -56px 0px;
+  width: 48px;
+  height: 48px; }
+
+.sprite-icon-010plane {
+  background-position: -90px -96px;
+  width: 18px;
+  height: 18px; }
+
+.sprite-icon-02 {
+  background-position: 0px -48px;
+  width: 41px;
+  height: 48px; }
+
+.sprite-icon-03 {
+  background-position: 0px 0px;
+  width: 56px;
+  height: 48px; }
+
+.sprite-icon-04crossbrowser {
+  background-position: -104px -50px;
+  width: 30px;
+  height: 30px; }
+
+.sprite-icon-05creative {
+  background-position: -85px -48px;
+  width: 18px;
+  height: 30px; }
+
+.sprite-icon-06pixelperfect {
+  background-position: -135px -20px;
+  width: 30px;
+  height: 30px; }
+
+.sprite-icon-07freeforever {
+  background-position: -104px -20px;
+  width: 31px;
+  height: 30px; }
+
+.sprite-icon-08help {
+  background-position: -41px -48px;
+  width: 44px;
+  height: 44px; }
+
+.sprite-icon-11github {
+  background-position: -134px -50px;
+  width: 30px;
+  height: 30px; }
+
+.sprite-icon-12dribble {
+  background-position: 0px -96px;
+  width: 30px;
+  height: 30px; }
+
+.sprite-icon-13instaagram {
+  background-position: -30px -96px;
+  width: 30px;
+  height: 30px; }
+
+.sprite-icon-14facebok {
+  background-position: -60px -96px;
+  width: 30px;
+  height: 30px; }
+
+.sprite-icon-15twit {
+  background-position: -164px -50px;
+  width: 30px;
+  height: 30px; }
+
+.sprite-icon-Phone {
+  background-position: -104px -80px;
+  width: 14px;
+  height: 14px; }
+
+.sprite-icon-line {
+  background-position: -118px -80px;
+  width: 65px;
+  height: 1px; }
+
+.sprite-icon-logo {
+  background-position: -104px 0px;
+  width: 90px;
+  height: 20px; }
+
+.sprite-icon-v {
+  background-position: -165px -21px;
+  width: 26px;
+  height: 26px; }
